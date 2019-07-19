@@ -9,7 +9,7 @@ git clone https://github.com/juvanthomas/com.imageanalysis.git
 Install the requirements:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Apply the migrations:
