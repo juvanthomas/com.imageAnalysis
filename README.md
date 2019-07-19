@@ -1,4 +1,4 @@
-## Running the Project Locally
+## How to Run the Project Locally
 
 First, clone the repository to your local machine:
 
