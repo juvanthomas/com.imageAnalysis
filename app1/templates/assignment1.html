@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h4>Upload image to know if the camera was blocked or overlighted </h4>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" name="document">
+    <button type="submit">Upload file</button>
+  </form>
+  {% if url %}
+    <p>Uploaded file: {{ url }}</p>
+    <p>Result       : {{ result }}</p>
+    <p>Click the link to view image: <a href="{{ url }}">{{ url }}</a></p>
+
+  {% endif %}
+
+
+
+{% endblock %}
