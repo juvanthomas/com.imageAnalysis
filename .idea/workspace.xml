@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6427dec6-317e-46c2-811f-66808e45b3b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/ADDU3609.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/ADEW3216.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/AYXW6533.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_Jn48yAm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_K1wK5Ls.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_LH4mH38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_rJiYL9V.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_yeF2eQR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/IMG20190720102458.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/overlighted_film_by_daeron_singollo_d2gfyfe-fullview_C7IR1eJ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/overlighted_film_by_daeron_singollo_d2gfyfe-fullview_XdCFSxP.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app1/templates/assignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app1/templates/assignment1.html" afterDir="false" />
-    </list>
+    <list default="true" id="6427dec6-317e-46c2-811f-66808e45b3b2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="55" />
     <option name="y" value="27" />
     <option name="width" value="885" />
@@ -155,7 +141,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="27" width="1311" height="741" extended-state="6" />
+    <frame x="55" y="27" width="1311" height="741" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
