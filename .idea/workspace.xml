@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6427dec6-317e-46c2-811f-66808e45b3b2" name="Default Changelist" comment="" />
+    <list default="true" id="6427dec6-317e-46c2-811f-66808e45b3b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/ADDU3609.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/ADEW3216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/AYXW6533.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_Jn48yAm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_K1wK5Ls.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_LH4mH38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_rJiYL9V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/IMG20190719143943_yeF2eQR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/IMG20190720102458.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/overlighted_film_by_daeron_singollo_d2gfyfe-fullview_C7IR1eJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/overlighted_film_by_daeron_singollo_d2gfyfe-fullview_XdCFSxP.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/templates/assignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app1/templates/assignment1.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app1/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
@@ -18,6 +32,15 @@
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app1/templates/assignment1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -46,6 +69,7 @@
         <option value="$PROJECT_DIR$/home/views.py" />
         <option value="$PROJECT_DIR$/Mysite/settings.py" />
         <option value="$PROJECT_DIR$/Mysite/urls.py" />
+        <option value="$PROJECT_DIR$/app1/templates/assignment1.html" />
       </list>
     </option>
   </component>
@@ -65,23 +89,24 @@
         <subPane>
           <expand>
             <path>
-              <item name="com.imageAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.imageAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="com.imageanalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.imageanalysis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="com.imageAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.imageAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="com.imageanalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.imageanalysis" type="462c0819:PsiDirectoryNode" />
               <item name="app1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="com.imageAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.imageAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="com.imageanalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.imageanalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="app1" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="com.imageAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.imageAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="Mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="com.imageanalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.imageanalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -93,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mysite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RecentsManager">
@@ -132,7 +157,7 @@
   <component name="ToolWindowManager">
     <frame x="55" y="27" width="1311" height="741" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496124" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -143,7 +168,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32847896" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32847896" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -195,6 +220,13 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/templates/assignment1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
