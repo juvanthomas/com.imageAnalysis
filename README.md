@@ -1,6 +1,6 @@
 ## How to Run the Project Locally
-
-First, clone the repository to your local machine:
+Make a virtual environment and
+Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/juvanthomas/com.imageanalysis.git
